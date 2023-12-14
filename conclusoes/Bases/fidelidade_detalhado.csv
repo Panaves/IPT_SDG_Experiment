@@ -1,0 +1,169 @@
+Variável,Modelo,Base,Wasserstein
+age,AE,Adults Full,0.0091
+workclass,AE,Adults Full,0.0003
+fnlwgt,AE,Adults Full,0.0021
+education,AE,Adults Full,0.0001
+marital_status,AE,Adults Full,0.0002
+occupation,AE,Adults Full,0.0004
+relationship,AE,Adults Full,0.0003
+race,AE,Adults Full,0.0001
+sex,AE,Adults Full,0.0
+capital_gain,AE,Adults Full,0.0038
+capital_loss,AE,Adults Full,0.0017
+hours_per_week,AE,Adults Full,0.0086
+native_country,AE,Adults Full,0.0013
+salary,AE,Adults Full,0.0
+age,VAE1,Adults Full,0.0089
+workclass,VAE1,Adults Full,0.0037
+fnlwgt,VAE1,Adults Full,0.0115
+education,VAE1,Adults Full,0.0044
+marital_status,VAE1,Adults Full,0.0029
+occupation,VAE1,Adults Full,0.004
+relationship,VAE1,Adults Full,0.0038
+race,VAE1,Adults Full,0.0054
+sex,VAE1,Adults Full,0.0059
+capital_gain,VAE1,Adults Full,0.0041
+capital_loss,VAE1,Adults Full,0.0093
+hours_per_week,VAE1,Adults Full,0.015
+native_country,VAE1,Adults Full,0.0106
+salary,VAE1,Adults Full,0.0013
+age,VAE2,Adults Full,0.0097
+workclass,VAE2,Adults Full,0.0002
+fnlwgt,VAE2,Adults Full,0.0031
+education,VAE2,Adults Full,0.0003
+marital_status,VAE2,Adults Full,0.0003
+occupation,VAE2,Adults Full,0.0004
+relationship,VAE2,Adults Full,0.0002
+race,VAE2,Adults Full,0.0001
+sex,VAE2,Adults Full,0.0
+capital_gain,VAE2,Adults Full,0.0033
+capital_loss,VAE2,Adults Full,0.0014
+hours_per_week,VAE2,Adults Full,0.0121
+native_country,VAE2,Adults Full,0.0022
+salary,VAE2,Adults Full,0.0
+age,CTAB-GAN,Adults Full,0.0342
+workclass,CTAB-GAN,Adults Full,0.0207
+fnlwgt,CTAB-GAN,Adults Full,0.0126
+education,CTAB-GAN,Adults Full,0.0451
+marital_status,CTAB-GAN,Adults Full,0.0137
+occupation,CTAB-GAN,Adults Full,0.0435
+relationship,CTAB-GAN,Adults Full,0.0182
+race,CTAB-GAN,Adults Full,0.0386
+sex,CTAB-GAN,Adults Full,0.0384
+capital_gain,CTAB-GAN,Adults Full,0.0057
+capital_loss,CTAB-GAN,Adults Full,0.0063
+hours_per_week,CTAB-GAN,Adults Full,0.0123
+native_country,CTAB-GAN,Adults Full,0.0064
+salary,CTAB-GAN,Adults Full,0.0349
+age,AE,"Adults Outliers 1,5",0.0111
+workclass,AE,"Adults Outliers 1,5",0.0017
+fnlwgt,AE,"Adults Outliers 1,5",0.0039
+education,AE,"Adults Outliers 1,5",0.0008
+marital_status,AE,"Adults Outliers 1,5",0.0006
+occupation,AE,"Adults Outliers 1,5",0.0011
+relationship,AE,"Adults Outliers 1,5",0.0007
+race,AE,"Adults Outliers 1,5",0.0025
+sex,AE,"Adults Outliers 1,5",0.0003
+capital_gain,AE,"Adults Outliers 1,5",0.0052
+capital_loss,AE,"Adults Outliers 1,5",0.0024
+hours_per_week,AE,"Adults Outliers 1,5",0.037
+native_country,AE,"Adults Outliers 1,5",0.003
+salary,AE,"Adults Outliers 1,5",0.0
+age,VAE1,"Adults Outliers 1,5",0.0091
+workclass,VAE1,"Adults Outliers 1,5",0.0046
+fnlwgt,VAE1,"Adults Outliers 1,5",0.0039
+education,VAE1,"Adults Outliers 1,5",0.0053
+marital_status,VAE1,"Adults Outliers 1,5",0.0028
+occupation,VAE1,"Adults Outliers 1,5",0.0021
+relationship,VAE1,"Adults Outliers 1,5",0.0036
+race,VAE1,"Adults Outliers 1,5",0.0046
+sex,VAE1,"Adults Outliers 1,5",0.0055
+capital_gain,VAE1,"Adults Outliers 1,5",0.0049
+capital_loss,VAE1,"Adults Outliers 1,5",0.0025
+hours_per_week,VAE1,"Adults Outliers 1,5",0.0383
+native_country,VAE1,"Adults Outliers 1,5",0.0069
+salary,VAE1,"Adults Outliers 1,5",0.0151
+age,VAE2,"Adults Outliers 1,5",0.013
+workclass,VAE2,"Adults Outliers 1,5",0.0005
+fnlwgt,VAE2,"Adults Outliers 1,5",0.0048
+education,VAE2,"Adults Outliers 1,5",0.0014
+marital_status,VAE2,"Adults Outliers 1,5",0.0005
+occupation,VAE2,"Adults Outliers 1,5",0.0007
+relationship,VAE2,"Adults Outliers 1,5",0.0002
+race,VAE2,"Adults Outliers 1,5",0.0006
+sex,VAE2,"Adults Outliers 1,5",0.0003
+capital_gain,VAE2,"Adults Outliers 1,5",0.0031
+capital_loss,VAE2,"Adults Outliers 1,5",0.0032
+hours_per_week,VAE2,"Adults Outliers 1,5",0.0391
+native_country,VAE2,"Adults Outliers 1,5",0.0058
+salary,VAE2,"Adults Outliers 1,5",0.0
+age,CTAB-GAN,"Adults Outliers 1,5",0.0603
+workclass,CTAB-GAN,"Adults Outliers 1,5",0.0435
+fnlwgt,CTAB-GAN,"Adults Outliers 1,5",0.0114
+education,CTAB-GAN,"Adults Outliers 1,5",0.0644
+marital_status,CTAB-GAN,"Adults Outliers 1,5",0.0594
+occupation,CTAB-GAN,"Adults Outliers 1,5",0.029
+relationship,CTAB-GAN,"Adults Outliers 1,5",0.0303
+race,CTAB-GAN,"Adults Outliers 1,5",0.0203
+sex,CTAB-GAN,"Adults Outliers 1,5",0.0296
+capital_gain,CTAB-GAN,"Adults Outliers 1,5",0.0027
+capital_loss,CTAB-GAN,"Adults Outliers 1,5",0.0064
+hours_per_week,CTAB-GAN,"Adults Outliers 1,5",0.0483
+native_country,CTAB-GAN,"Adults Outliers 1,5",0.009
+salary,CTAB-GAN,"Adults Outliers 1,5",0.0336
+age,AE,"Adults Outliers 3,0",0.0163
+workclass,AE,"Adults Outliers 3,0",0.0005
+fnlwgt,AE,"Adults Outliers 3,0",0.0103
+education,AE,"Adults Outliers 3,0",0.0001
+marital_status,AE,"Adults Outliers 3,0",0.0
+occupation,AE,"Adults Outliers 3,0",0.0002
+relationship,AE,"Adults Outliers 3,0",0.0
+race,AE,"Adults Outliers 3,0",0.0002
+sex,AE,"Adults Outliers 3,0",0.0
+capital_gain,AE,"Adults Outliers 3,0",0.0109
+capital_loss,AE,"Adults Outliers 3,0",0.0084
+hours_per_week,AE,"Adults Outliers 3,0",0.0195
+native_country,AE,"Adults Outliers 3,0",0.0055
+salary,AE,"Adults Outliers 3,0",0.0
+age,VAE1,"Adults Outliers 3,0",0.022
+workclass,VAE1,"Adults Outliers 3,0",0.0033
+fnlwgt,VAE1,"Adults Outliers 3,0",0.0084
+education,VAE1,"Adults Outliers 3,0",0.0038
+marital_status,VAE1,"Adults Outliers 3,0",0.0028
+occupation,VAE1,"Adults Outliers 3,0",0.0016
+relationship,VAE1,"Adults Outliers 3,0",0.0042
+race,VAE1,"Adults Outliers 3,0",0.003
+sex,VAE1,"Adults Outliers 3,0",0.0055
+capital_gain,VAE1,"Adults Outliers 3,0",0.0055
+capital_loss,VAE1,"Adults Outliers 3,0",0.0071
+hours_per_week,VAE1,"Adults Outliers 3,0",0.0263
+native_country,VAE1,"Adults Outliers 3,0",0.0059
+salary,VAE1,"Adults Outliers 3,0",0.0002
+age,VAE2,"Adults Outliers 3,0",0.0076
+workclass,VAE2,"Adults Outliers 3,0",0.0001
+fnlwgt,VAE2,"Adults Outliers 3,0",0.0013
+education,VAE2,"Adults Outliers 3,0",0.0007
+marital_status,VAE2,"Adults Outliers 3,0",0.0002
+occupation,VAE2,"Adults Outliers 3,0",0.0001
+relationship,VAE2,"Adults Outliers 3,0",0.0003
+race,VAE2,"Adults Outliers 3,0",0.0005
+sex,VAE2,"Adults Outliers 3,0",0.0002
+capital_gain,VAE2,"Adults Outliers 3,0",0.0014
+capital_loss,VAE2,"Adults Outliers 3,0",0.0012
+hours_per_week,VAE2,"Adults Outliers 3,0",0.0219
+native_country,VAE2,"Adults Outliers 3,0",0.0012
+salary,VAE2,"Adults Outliers 3,0",0.0
+age,CTAB-GAN,"Adults Outliers 3,0",0.0312
+workclass,CTAB-GAN,"Adults Outliers 3,0",0.0161
+fnlwgt,CTAB-GAN,"Adults Outliers 3,0",0.0213
+education,CTAB-GAN,"Adults Outliers 3,0",0.0266
+marital_status,CTAB-GAN,"Adults Outliers 3,0",0.0105
+occupation,CTAB-GAN,"Adults Outliers 3,0",0.0265
+relationship,CTAB-GAN,"Adults Outliers 3,0",0.037
+race,CTAB-GAN,"Adults Outliers 3,0",0.0174
+sex,CTAB-GAN,"Adults Outliers 3,0",0.0668
+capital_gain,CTAB-GAN,"Adults Outliers 3,0",0.0033
+capital_loss,CTAB-GAN,"Adults Outliers 3,0",0.01
+hours_per_week,CTAB-GAN,"Adults Outliers 3,0",0.0366
+native_country,CTAB-GAN,"Adults Outliers 3,0",0.0521
+salary,CTAB-GAN,"Adults Outliers 3,0",0.0964

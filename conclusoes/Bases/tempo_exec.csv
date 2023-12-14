@@ -1,0 +1,5 @@
+Modelo,Adults,"Adults Outliers 1,5","Adults Outliers 3,0"
+Autoencoder,196,148,179
+Variational Autoencoder 1,670,435,563
+Variational Autoencoder 2,603,416,507
+CTAB-GAN,896,663,815
